@@ -15,7 +15,7 @@
 <br />
 <br />
 <br />
-Hi, I'm [Yoga](https://yogacp.github.io), a Android Developer 🚀 from Kediri, East Java, Indonesia. I'm not a strong researcher but curious about all new technology, especially in android development. With little help from coffee and snacks.
+Hi, I'm <a href="https://yogacp.github.io/" target="_blank">Yoga</a>, a Android Developer 🚀 from Kediri, East Java, Indonesia. I'm not a strong researcher but curious about all new technology, especially in android development. With little help from coffee and snacks.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="500" height="320" />
 
