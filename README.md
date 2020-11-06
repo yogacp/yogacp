@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/yoga.c.pranata/">
   <img align="left" alt="Yoga's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://medium.com/@yogacp">
+<a href="https://yogacp.medium.com/">
   <img align="left" alt="Yoga's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
 </a>
 <a href="mailto:yoga.cahya.pranata@gmail.com">
